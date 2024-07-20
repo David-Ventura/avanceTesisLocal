@@ -1,0 +1,23 @@
+.App-body {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.1;    
+    max-width: 80%; 
+  }
+  
+  .image-container {
+    text-align: center;
+
+  }
+  
+  .centered-image {
+    max-width: 100%; 
+  height: auto; 
+  }
+
+
+
+ 
